@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Times New Roman', Times, serif;
+  background-color: rgb(255, 254, 189);
+}
+
+.startButton {
+  background: rgb(62, 34, 216);
+  color: rgb(91, 247, 91);
+  font-size: 22px;
+  margin: 10px;
+  padding: 16px;
+  width: 120px;
+  height: 120px;
+}
+
+.stoppedButton {
+  background: rgb(62, 34, 216);
+  color: rgb(255, 164, 27);
+  font-size: 22px;
+  margin: 10px;
+  padding: 16px;
+  width: 120px;
+  height: 120px;
+}
+
+.gear {
+  background: rgb(121, 231, 250);
+  font-size: 22px;
+  margin: 10px;
+  padding: 16px;
+  width: 120px;
+  height: 120px;
+}
+
+.speed {
+  background: rgb(121, 231, 250);
+  font-size: 22px;
+  margin: 10px;
+  padding: 16px;
+  width: 120px;
+  height: 120px;
+}
+h2, p{
+  color: rgb(41, 29, 97);
+  font-size: 22px;
+  margin: 10px;
+  padding: 10px;
+}
